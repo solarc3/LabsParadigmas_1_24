@@ -1,0 +1,45 @@
+RF 			  Autoevaluacion
+station				1
+section				1
+line				1
+line-length			1
+line-section-length		1
+line-cost			1
+line-section-cost		1
+line-add-section		1
+line?				1
+pcar				1
+train				1
+train-add-car			1
+train-remove-car		1
+train?				1
+train-capacity			1
+driver				1
+subway				1
+subway-add-train		1
+subway-add-line			1
+subway-add-driver		1
+subway->string			1
+subway-rise-section-cost	1
+subway-set-station-stoptime	1
+subway-assing-train-to-line	1
+subway-assing-driver-to-train	1
+where-is-train			1
+subway-train-path		1
+
+
+#####################################
+
+
+RNF 		 	Autoevaluacion
+Autoevaluación			1
+Lenguaje			1
+Versión				1
+Standard			1
+No variables			1
+Documentación			1
+Dom->Rec			1
+Organización			1
+Historial			1
+Script de pruebas		1
+Prerequisitos			1
