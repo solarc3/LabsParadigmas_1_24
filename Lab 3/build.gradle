@@ -1,0 +1,14 @@
+
+plugins {
+   id 'application'
+}
+repositories {
+   mavenCentral()
+}
+
+run {
+   standardInput = System.in
+}
+application {
+   mainClass = 'org.example.Main'
+}

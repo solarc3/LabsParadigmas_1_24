@@ -1,0 +1,4 @@
+9,BN,100,1
+10:300:Zilvermeeuw:BN:tr|11:300:Zilvermeeuw:BN:ct|12:300:Zilvermeeuw:BN:ct|13:300:Zilvermeeuw:BN:ct|14:300:Zilvermeeuw:BN:ct|15:300:Zilvermeeuw:BN:tr
+-
+20:700:CAF M4:LHB:tr|21:700:CAF M4:LHB:ct|22:700:CAF M4:LHB:ct|23:700:CAF M4:LHB:tr

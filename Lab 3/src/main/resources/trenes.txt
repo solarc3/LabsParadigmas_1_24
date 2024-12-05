@@ -1,0 +1,42 @@
+1,CAF,100,70
+0:100:NS-74:CAF:tr|1:100:NS-74:CAF:ct|2:150:NS-74:CAF:ct|3:100:NS-74:CAF:ct|4:100:NS-74:CAF:tr
+2,CAF,100,70
+5:100:AS-2014:CAF:tr|6:100:AS-2014:CAF:ct|7:100:AS-2014:CAF:ct|8:100:AS-2014:CAF:ct|9:100:AS-2014:CAF:tr
+9,BN,100,100
+10:300:Zilvermeeuw:BN:tr|11:300:Zilvermeeuw:BN:ct|12:300:Zilvermeeuw:BN:ct|13:300:Zilvermeeuw:BN:ct|14:300:Zilvermeeuw:BN:ct|15:300:Zilvermeeuw:BN:tr
+11,LHB,100,40
+16:700:CAF M4:LHB:tr|17:700:CAF M4:LHB:ct|18:700:CAF M4:LHB:ct|19:700:CAF M4:LHB:tr
+12,OV,100,80
+20:1200:AK M5:OV:tr|25:1200:AK M5:OV:tr
+2,Kinki Sharyo,100,80
+150:250:SP1900:Kinki Sharyo:tr|151:250:SP1900:Kinki Sharyo:ct|152:300:SP1900:Kinki Sharyo:ct|153:250:SP1900:Kinki Sharyo:ct|154:250:SP1900:Kinki Sharyo:tr
+3,Kawasaki Heavy Industries,80,100
+155:200:SP1950:Kawasaki Heavy Industries:tr|156:200:SP1950:Kawasaki Heavy Industries:ct|157:220:SP1950:Kawasaki Heavy Industries:ct|158:200:SP1950:Kawasaki Heavy Industries:tr
+4,CRRC Changchun,80,90
+159:180:A-Train:CRRC Changchun:tr|160:180:A-Train:CRRC Changchun:ct|161:200:A-Train:CRRC Changchun:ct|162:180:A-Train:CRRC Changchun:tr
+-
+5:100:AS-2014:CAF:tr
+6:100:AS-2014:CAF:ct
+7:100:AS-2014:CAF:ct
+8:100:AS-2014:CAF:ct
+9:100:AS-2014:CAF:tr
+10:300:Zilvermeeuw:BN:tr
+11:300:Zilvermeeuw:BN:ct
+12:300:Zilvermeeuw:BN:ct
+13:300:Zilvermeeuw:BN:ct
+14:300:Zilvermeeuw:BN:ct
+15:300:Zilvermeeuw:BN:tr
+16:700:CAF M4:LHB:tr
+17:700:CAF M4:LHB:ct
+18:700:CAF M4:LHB:ct
+19:700:CAF M4:LHB:tr
+20:1200:AK M5:OV:tr
+25:1200:AK M5:OV:tr
+155:200:SP1950:Kawasaki Heavy Industries:tr
+156:200:SP1950:Kawasaki Heavy Industries:ct
+157:220:SP1950:Kawasaki Heavy Industries:ct
+158:200:SP1950:Kawasaki Heavy Industries:tr
+159:180:A-Train:CRRC Changchun:tr
+160:180:A-Train:CRRC Changchun:ct
+161:200:A-Train:CRRC Changchun:ct
+162:180:A-Train:CRRC Changchun:tr

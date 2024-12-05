@@ -1,0 +1,16 @@
+3;Linea Azul;Subterraneo
+31,Isolatorweg,t,120,32,Spaklerweg,r,110,50,10
+32,Spaklerweg,r,110,33,Reigersbos,c,130,60,12
+33,Reigersbos,c,130,34,Gein,r,90,40,8
+34,Gein,r,90,35,Gouverneurplein,r,100,70,14
+35,Gouver neurplein,r,100,36,Dijkgraafplein,c,140,50,10
+36,Dijkgraafplein,c,140,37,Ganzenhoef,r,80,60,12
+37,Ganzenhoef,r,80,38,Zuidmeer,r,95,30,6
+38,Zuidmeer,r,95,39,Centraal Station,t,180,80,16
+-
+4;Linea Verde;Subterraneo
+48,Noord,t,150,49,Noorderpark,r,90,80,16
+49,Noorderpark,r,90,50,Vlugtlaan,r,120,60,12
+50,Vlugtlaan,r,120,51,De Vlugtlaan,c,100,40,8
+51,De Vlugtlaan,c,100,52,Van der Madeweg,r,110,70,14
+52,Van der Madeweg,r,110,53,Zuid/WTC,t,180,10,20

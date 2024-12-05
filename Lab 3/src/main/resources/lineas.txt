@@ -1,0 +1,59 @@
+1;Línea 1;UIC 60 ASCE
+0,San Pablo,t,90,1,Neptuno,r,45,4,15
+1,Neptuno,r,45,2,Pajaritos,t,45,3,14
+2,Pajaritos,t,45,3,Las Rejas,r,45,25,10
+3,Las Rejas,r,45,4,Ecuador,r,60,45,17
+4,Ecuador,r,60,5,San Alberto Hurtado,r,40,47,18
+5,San Alberto Hurtado,r,40,6,Universidad de Santiago de Chile,c,40,43,17
+6,Universidad de Santiago de Chile,c,40,7,Estación Central,c,3600,38,12
+7,Estación Central,c,3600,8,Unión Latinoamericana,r,30,25,10
+8,Unión Latinoamericana,r,30,9,República,r,40,45,17
+9,República,r,40,10,Los Héroes,c,60,47,18
+10,Los Héroes,c,60,11,La Moneda,r,40,43,17
+11,La Moneda,r,40,12,Universidad de Chile,c,90,38,12
+12,Universidad de Chile,c,90,13,Santa Lucía,r,40,45,17
+13,Santa Lucía,r,40,14,Universidad Católica,c,60,47,18
+14,Universidad Católica,c,60,15,Baquedano,r,40,43,17
+15,Baquedano,r,40,16,Los Dominicos,t,90,42,17
+-
+51;Linea M51;BS75A
+31,Isolatorweg,t,120,32,Spaklerweg,r,110,50,10
+32,Spaklerweg,r,110,33,Reigersbos,c,130,60,12
+33,Reigersbos,c,130,34,Gein,r,90,40,8
+34,Gein,r,90,35,Gouverneurplein,r,100,70,14
+35,Gouverneurplein,r,100,36,Dijkgraafplein,c,140,50,10
+36,Dijkgraafplein,c,140,37,Ganzenhoef,r,80,60,12
+37,Ganzenhoef,r,80,38,Zuidmeer,r,95,30,6
+38,Zuidmeer,r,95,39,Centraal Station,t,180,80,16
+-
+53;Linea M53;AREMA
+40,Gaasperplas,t,120,41,Reigersbos,c,130,60,12
+41,Reigersbos,c,130,42,Gein,r,90,40,8
+42,Gein,r,90,43,Holendrecht,r,110,10,20
+43,Holendrecht,r,110,44,Bullewijk,c,140,50,10
+-
+200;East Rail Line;BS100A
+100,Admiralty,c,120,101,Exhibition Centre,r,80,40,8
+101,Exhibition Centre,r,80,102,Hung Hom,c,150,60,12
+102,Hung Hom,c,150,103,Mong Kok East,r,90,50,10
+103,Mong Kok East,r,90,104,Kowloon Tong,c,110,30,6
+104,Kowloon Tong,c,110,105,Tai Wai,c,140,70,14
+105,Tai Wai,c,140,106,Sha Tin,r,100,40,8
+106,Sha Tin,r,100,107,Fo Tan,r,80,20,4
+107,Fo Tan,r,80,108,Racecourse,r,60,30,6
+108,Racecourse,r,60,109,University,r,90,50,10
+109,University,r,90,110,Tai Po Market,r,120,60,12
+110,Tai Po Market,r,120,111,Tai Wo,r,100,40,8
+111,Tai Wo,r,100,112,Fanling,r,110,30,6
+112,Fanling,r,110,113,Sheung Shui,r,90,20,4
+113,Sheung Shui,r,90,114,Lo Wu,t,150,50,10
+114,Lo Wu,t,150,115,Lok Ma Chau,t,130,40,8
+-
+201;Tung Chung Line;AS80B
+120,Tung Chung,t,150,121,Sunny Bay,c,100,60,12
+121,Sunny Bay,c,100,122,Tsing Yi,c,120,40,8
+122,Tsing Yi,c,120,123,Lai King,c,90,50,10
+123,Lai King,c,90,124,Nam Cheong,c,110,30,6
+124,Nam Cheong,c,110,125,Olympic,r,80,20,4
+125,Olympic,r,80,126,Kowloon,c,140,70,14
+126,Kowloon,c,140,127,Hong Kong,t,180,60,12
